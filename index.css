@@ -1,0 +1,39 @@
+.screen{
+  width: 400px;
+  height: 500px;
+  background-color: #90caf9;
+  font-size: .75em;
+  text-align: center;
+  padding: 1px 3px 30px 3px;
+  margin: auto;
+}
+
+.img{
+  border-radius: 40px;
+  padding: 12px;
+  box-shadow: 5px 5px 5px -2px;
+}
+
+
+button{
+  margin: 6px;
+  border: ridge 1px;
+  width: 60%;
+}
+
+.container{
+  overflow: scroll;
+  width: 340px;
+  height: 33%;
+  text-align: center;
+  border: ridge 2px;
+  padding: 10px 28px 50px 28px;
+  box-shadow: 5px 5px 25px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.containerText{
+  color:darkblue;
+  text-align: left;
+}
